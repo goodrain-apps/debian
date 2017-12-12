@@ -1,4 +1,4 @@
-FROM debian:jessie-20170620
+FROM debian:jessie-20171210
 
 MAINTAINER zhouyq@goodrain.com
 
